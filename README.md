@@ -1,0 +1,1 @@
+# django-generic-search-api
